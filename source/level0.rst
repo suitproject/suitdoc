@@ -14,6 +14,10 @@ Each tar ball is includes image and header file for each image for a duration of
 
 Adding Headers
 -------------
+- Types of Headers
+- Analog hk parameters
+- Status hk parameters
+- 
 
 Auxillary file Processing
 ----------------
