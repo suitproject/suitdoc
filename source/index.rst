@@ -1,16 +1,12 @@
-.. suitdoc documentation master file, created by
-   sphinx-quickstart on Fri Aug  9 12:54:53 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+SUIT Data on PRADAN
+===================
 
-suitpy
-=====================
+How to search for and download data from the Solar Ultraviolet Imaging
+Telescope (SUIT), on board ISRO's Aditya-L1 mission, using the ISSDC
+PRADAN portal.
 
 .. toctree::
-    :maxdepth: 2
-    :caption: Contents:
+   :maxdepth: 2
+   :caption: Contents
 
-    level0
-    level1
-    level2
-    pradan_portal
+   pradan_portal

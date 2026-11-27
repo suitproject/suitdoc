@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'suitdoc'
+project = 'SUIT Data on PRADAN'
 copyright = '2024, Rahul G'
 author = 'Rahul G'
 release = 'V1.0'
@@ -26,4 +26,3 @@ master_doc = 'index'
 
 # html_theme = 'pydata_sphinx_theme'
 html_theme = 'sphinx_book_theme'
-html_static_path = ['_static']

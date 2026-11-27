@@ -19,21 +19,19 @@ What is available
 
 .. list-table::
    :header-rows: 1
-   :widths: 20 80
+   :widths: 20 30 50
 
    * - Level
-     - Availability on PRADAN
+     - ``ProcessingLevel`` value
+     - On PRADAN
    * - Level-1
-     - Calibrated images (bias, gain, flat field, PRNU, scatter and WCS).
-       Published within about 24 hours of observation.
+     - ``level1``
+     - Within about 24 hours of observation
    * - Level-2
-     - Level-1 plus distortion correction, spike removal and
-       contamination / limb-darkening correction. Published within about
-       7 days of observation, as a multi-extension FITS file with a
-       ``SPIKE_TABLE`` extension.
+     - ``level2``
+     - Within about 7 days of observation
 
-Level-0 data is not public. For how each level is produced, see
-:doc:`level1` and :doc:`level2`.
+Level-0 data is not public.
 
 
 Step 1: Open the SUIT page on PRADAN
